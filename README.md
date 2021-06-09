@@ -19,4 +19,6 @@ an LCD through the 8-bit parallel interface.
 * Implment an ADC to convert the value on the potionmeter.
 * Implement an DAC to convert the digital value of the potionmeter to be used by the optocoupler. 
 * Implement an LCD screen to display frequency and resistence. 
+  
+  ![alt text](https://github.com/dannytran3214/ECE355-PWM-Monitor/blob/main/embedeedsystem.png)
  
